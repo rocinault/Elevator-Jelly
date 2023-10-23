@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ff2e52bfa65486c802bfd97bf9f577, type: 3}
+  m_Name: Act_1_Prologue
+  m_EditorClassIdentifier: 
+  converstaions:
+  - name: Clive
+    clip: {fileID: 8300000, guid: c728e7803f776409c9d4362b9678de9d, type: 3}
+    sentence: "Now just because your father got you an internship here that doesn\u2019t
+      mean you get access to the restricted floors. "
+  - name: Clive
+    clip: {fileID: 8300000, guid: c728e7803f776409c9d4362b9678de9d, type: 3}
+    sentence: "Today is a very important day and I can\u2019t have you getting in
+      the way."
+  - name: Clive
+    clip: {fileID: 8300000, guid: c728e7803f776409c9d4362b9678de9d, type: 3}
+    sentence: "For now I\u2019ll have you man the elevator. "
+  - name: Clive
+    clip: {fileID: 8300000, guid: c728e7803f776409c9d4362b9678de9d, type: 3}
+    sentence: Take us to the Office.
+  - name: Clive
+    clip: {fileID: 8300000, guid: c728e7803f776409c9d4362b9678de9d, type: 3}
+    sentence: It should be on the first floor.
